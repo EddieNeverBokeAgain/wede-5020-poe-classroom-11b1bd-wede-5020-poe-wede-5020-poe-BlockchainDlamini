@@ -19,7 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-![Website Sitemap](img/underarmoursitemap.png) <br> (The one here is only an example, include your own site map)
+![Website Sitemap](img/Under Armour Sitemap.png) <br> (The one here is only an example, include your own site map)
 
 ## References
 
