@@ -19,7 +19,7 @@ Pull this from your project proposal.
 
 ## Sitemap
 
-<Under Armour Sitemap.png> (The one here is only an example, include your own site map)
+  <img src="img/Under Armour Sitemap.png" alt="Image of a Sitemap"> (The one here is only an example, include your own site map)
 
 ## References
 
